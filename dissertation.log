@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2022.10.10)  21 OCT 2022 10:41
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2022.10.10)  21 OCT 2022 11:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2237,14 +2237,6 @@ Package biblatex Info: ... file 'dissertation.bbl' found.
 
 (./dissertation.bbl)
 
-Package biblatex Warning: citation 'Gosele1999161' was not found at all in the 
-.bbl, bibliography labels cannot be generated, please correct the citation.
-
-
-Package biblatex Warning: citation 'Lermontov' was not found at all in the .bbl
-, bibliography labels cannot be generated, please correct the citation.
-
-
 Package biblatex Warning: citation 'vakbib2' was not found at all in the .bbl, 
 bibliography labels cannot be generated, please correct the citation.
 
@@ -2311,118 +2303,106 @@ Package cleveref Info: loaded `russian' language definitions on input line 3.
 \openout2 = `Dissertation/introduction.aux'.
 
  (./Dissertation/introduction.tex (./common/characteristic.tex
+Excluding 'comment' comment.
+\blx@maxsegment@1=\count633
+\blx@sectionciteorder@1=\count634
+Package biblatex Info: Reference section=1 on input line 180.
+Package biblatex Info: Setting label 'refsection:1' on input line 180.
 
-LaTeX Warning: Citation 'Gosele1999161' on page 3 undefined on input line 4.
+
+Package biblatex Warning: Keyword 'biblioauthorvak' not found on input line 180
+.
 
 
-LaTeX Warning: Citation 'Lermontov' on page 3 undefined on input line 4.
+LaTeX Warning: Empty bibliography on input line 180.
 
 
-Underfull \hbox (badness 1454) in paragraph at lines 21--35
-[]\TU/TimesNewRoman(1)/m/n/14.4 Для генерации содержимого титульного листа авто
-реферата, диссерта-
- []
+Package biblatex Warning: Keyword 'biblioauthorwos' not found on input line 180
+.
 
+
+LaTeX Warning: Empty bibliography on input line 180.
+
+
+Package biblatex Warning: Keyword 'biblioauthorscopus' not found on input line 
+180.
+
+
+LaTeX Warning: Empty bibliography on input line 180.
+
+
+Package biblatex Warning: Keyword 'biblioauthorconf' not found on input line 18
+0.
+
+
+LaTeX Warning: Empty bibliography on input line 180.
+
+
+Package biblatex Warning: Keyword 'biblioauthorother' not found on input line 1
+80.
+
+
+LaTeX Warning: Empty bibliography on input line 180.
+
+
+Package biblatex Warning: Keyword 'biblioregistered' not found on input line 18
+0.
+
+
+LaTeX Warning: Empty bibliography on input line 180.
+
+
+Package biblatex Warning: Keyword 'biblioauthorpatent' not found on input line 
+180.
+
+
+LaTeX Warning: Empty bibliography on input line 180.
+
+
+Package biblatex Warning: Keyword 'biblioauthorprogram' not found on input line
+ 180.
+
+
+LaTeX Warning: Empty bibliography on input line 180.
+
+
+Package biblatex Warning: Keyword 'biblioauthor' not found on input line 180.
+
+
+LaTeX Warning: Empty bibliography on input line 180.
+
+
+LaTeX Warning: Empty bibliography on input line 180.
+
+
+LaTeX Warning: Empty bibliography on input line 180.
+
+Package biblatex Info: Reference section=0 on input line 180.
+\blx@maxsegment@2=\count635
+\blx@sectionciteorder@2=\count636
+Package biblatex Info: Reference section=2 on input line 180.
+Package biblatex Info: Setting label 'refsection:2' on input line 180.
+
+LaTeX Warning: Citation 'vakbib2' undefined on input line 180.
+
+
+LaTeX Warning: Citation 'patbib1' undefined on input line 180.
+
+
+LaTeX Warning: Citation 'progbib1' undefined on input line 180.
+
+
+LaTeX Warning: Citation 'bib1' undefined on input line 180.
+
+
+LaTeX Warning: Citation 'confbib1' undefined on input line 180.
+
+Package biblatex Info: Reference section=0 on input line 180.
 [3.3
 
 
 
-]
-\blx@maxsegment@1=\count633
-\blx@sectionciteorder@1=\count634
-Package biblatex Info: Reference section=1 on input line 179.
-Package biblatex Info: Setting label 'refsection:1' on input line 179.
-
-
-Package biblatex Warning: Keyword 'biblioauthorvak' not found on input line 179
-.
-
-
-LaTeX Warning: Empty bibliography on input line 179.
-
-
-Package biblatex Warning: Keyword 'biblioauthorwos' not found on input line 179
-.
-
-
-LaTeX Warning: Empty bibliography on input line 179.
-
-
-Package biblatex Warning: Keyword 'biblioauthorscopus' not found on input line 
-179.
-
-
-LaTeX Warning: Empty bibliography on input line 179.
-
-
-Package biblatex Warning: Keyword 'biblioauthorconf' not found on input line 17
-9.
-
-
-LaTeX Warning: Empty bibliography on input line 179.
-
-
-Package biblatex Warning: Keyword 'biblioauthorother' not found on input line 1
-79.
-
-
-LaTeX Warning: Empty bibliography on input line 179.
-
-
-Package biblatex Warning: Keyword 'biblioregistered' not found on input line 17
-9.
-
-
-LaTeX Warning: Empty bibliography on input line 179.
-
-
-Package biblatex Warning: Keyword 'biblioauthorpatent' not found on input line 
-179.
-
-
-LaTeX Warning: Empty bibliography on input line 179.
-
-
-Package biblatex Warning: Keyword 'biblioauthorprogram' not found on input line
- 179.
-
-
-LaTeX Warning: Empty bibliography on input line 179.
-
-
-Package biblatex Warning: Keyword 'biblioauthor' not found on input line 179.
-
-
-LaTeX Warning: Empty bibliography on input line 179.
-
-
-LaTeX Warning: Empty bibliography on input line 179.
-
-
-LaTeX Warning: Empty bibliography on input line 179.
-
-Package biblatex Info: Reference section=0 on input line 179.
-\blx@maxsegment@2=\count635
-\blx@sectionciteorder@2=\count636
-Package biblatex Info: Reference section=2 on input line 179.
-Package biblatex Info: Setting label 'refsection:2' on input line 179.
-
-LaTeX Warning: Citation 'vakbib2' undefined on input line 179.
-
-
-LaTeX Warning: Citation 'patbib1' undefined on input line 179.
-
-
-LaTeX Warning: Citation 'progbib1' undefined on input line 179.
-
-
-LaTeX Warning: Citation 'bib1' undefined on input line 179.
-
-
-LaTeX Warning: Citation 'confbib1' undefined on input line 179.
-
-Package biblatex Info: Reference section=0 on input line 179.
-[4.4])
+])
 \@c=\count637
 \@last=\count638
 \@pnul=\count639
@@ -2441,10 +2421,10 @@ Package biblatex Info: Reference section=0 on input line 179.
 \@c=\count652
 \@last=\count653
 \@pnul=\count654
-) [5.5]
+) [4.4]
 \openout2 = `Dissertation/part1.aux'.
 
- (./Dissertation/part1.tex) [6.6
+ (./Dissertation/part1.tex) [5.5
 
 
 
@@ -2452,14 +2432,14 @@ Package biblatex Info: Reference section=0 on input line 179.
 \openout2 = `Dissertation/part2.aux'.
 
  (./Dissertation/part2.tex)
-[7.7
+[6.6
 
 
 
 ]
 \openout2 = `Dissertation/part3.aux'.
 
- (./Dissertation/part3.tex) [8.8
+ (./Dissertation/part3.tex) [7.7
 
 
 
@@ -2467,7 +2447,7 @@ Package biblatex Info: Reference section=0 on input line 179.
 \openout2 = `Dissertation/conclusion.aux'.
 
  (./Dissertation/conclusion.tex
-(./common/concl.tex)) [9.9
+(./common/concl.tex)) [8.8
 
 
 
@@ -2478,7 +2458,7 @@ Package biblatex Info: Reference section=0 on input line 179.
 No file dissertation.nls.
 \openout2 = `Dissertation/dictionary.aux'.
 
-(./Dissertation/dictionary.tex) [10.10
+(./Dissertation/dictionary.tex) [9.9
 
 
 
@@ -2506,7 +2486,7 @@ LaTeX Warning: Empty bibliography on input line 6.
  (./Dissertation/lists.tex (./dissertation.lof
 Package cleveref Info: loaded `russian' language definitions on input line 2.
  (./common/renames.tex))
-[11.11
+[10.10
 
 
 
@@ -2515,13 +2495,13 @@ Package cleveref Info: loaded `russian' language definitions on input line 2.
 
 ] (./dissertation.lot
 Package cleveref Info: loaded `russian' language definitions on input line 2.
- (./common/renames.tex)) [12.12
+ (./common/renames.tex)) [11.11
 
 ])
 \openout2 = `Dissertation/appendix.aux'.
 
 
-(./Dissertation/appendix.tex) [13.13
+(./Dissertation/appendix.tex) [12.12
 
 
 
@@ -2853,12 +2833,12 @@ Package logreq Info: Writing requests to 'dissertation.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50314 strings out of 479819
- 1005634 string characters out of 5895845
- 2109667 words of memory out of 5000000
- 66494 multiletter control sequences out of 15000+600000
- 538220 words of font info for 89 fonts, out of 8000000 for 9000
+ 50055 strings out of 479819
+ 1000268 string characters out of 5895845
+ 2108619 words of memory out of 5000000
+ 66236 multiletter control sequences out of 15000+600000
+ 538212 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 69i,11n,98p,1157b,5865s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,12n,98p,1157b,4235s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on dissertation.pdf (13 pages).
+Output written on dissertation.pdf (12 pages).
